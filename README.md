@@ -1,4 +1,5 @@
- 
+NLP PROJECT - INFORMATION RETRIEVAL
+
 informationRetrieval_LSI.py - Implements the Latent Semantic Indexing Model
 informationRetrieval_VSM.py - Implements the Vector Space Model
 informationRetrieval_LDA.py - Implements the Latent Dirichlet Allocation Model
